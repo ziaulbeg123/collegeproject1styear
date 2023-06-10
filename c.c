@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-double balance = 1000; // Initial balance
+double balance = 1000; 
 
 void checkBalance() {
     printf("Your current balance is: $%.2f\n", balance);
